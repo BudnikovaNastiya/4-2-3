@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/ftr7mosac5dca3t2?svg=true)](https://ci.appveyor.com/project/BudnikovaNastiya/4-2-3)
